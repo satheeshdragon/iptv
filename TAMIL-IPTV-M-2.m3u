@@ -1,116 +1,340 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Channel1" tvg-name="SUN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tamil",SUNTV HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100157
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | FD DD Podhigai" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Podhigal.png" group-title="IND | TAMIL",IN-TM | FD DD Podhigai
+http://103.161.34.13:8080/sheraz6855/haider8966/381081
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS HISTORY TV18 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="IND | TAMIL",IN-TM | TS HISTORY TV18 HD
+http://103.161.34.13:8080/sheraz6855/haider8966/381080
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS DISCOVERY WORLD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png" group-title="IND | TAMIL",IN-TM | TS DISCOVERY WORLD FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381079
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS PUTIYA THALAMURAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png" group-title="IND | TAMIL",IN-TM | TS PUTIYA THALAMURAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381078
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS ZEE TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-TV-HD.png" group-title="IND | TAMIL",IN-TM | TS ZEE TV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381077
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS JAYA MAX" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="IND | TAMIL",IN-TM | TS JAYA MAX
+http://103.161.34.13:8080/sheraz6855/haider8966/381076
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SONY BBC EARTH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="IND | TAMIL",IN-TM | TS SONY BBC EARTH FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381075
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SONY YAY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png" group-title="IND | TAMIL",IN-TM | TS SONY YAY
+http://103.161.34.13:8080/sheraz6855/haider8966/381074
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS COLORS FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="IND | TAMIL",IN-TM | TS COLORS FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381073
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS POGO" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png" group-title="IND | TAMIL",IN-TM | TS POGO
+http://103.161.34.13:8080/sheraz6855/haider8966/381072
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS CARTOON NETWORK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="IND | TAMIL",IN-TM | TS CARTOON NETWORK
+http://103.161.34.13:8080/sheraz6855/haider8966/381071
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NICK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick-2.png" group-title="IND | TAMIL",IN-TM | TS NICK
+http://103.161.34.13:8080/sheraz6855/haider8966/381070
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS DISCOVERY KIDS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png" group-title="IND | TAMIL",IN-TM | TS DISCOVERY KIDS
+http://103.161.34.13:8080/sheraz6855/haider8966/381069
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS RAJ DIGITAL PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png" group-title="IND | TAMIL",IN-TM | TS RAJ DIGITAL PLUS
+http://103.161.34.13:8080/sheraz6855/haider8966/381068
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MAKKAL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png" group-title="IND | TAMIL",IN-TM | TS MAKKAL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381067
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS JAYA PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="IND | TAMIL",IN-TM | TS JAYA PLUS
+http://103.161.34.13:8080/sheraz6855/haider8966/381066
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS DD PODHIGAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Podhigal.png" group-title="IND | TAMIL",IN-TM | TS DD PODHIGAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381065
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS RAJ MUSIX" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png" group-title="IND | TAMIL",IN-TM | TS RAJ MUSIX
+http://103.161.34.13:8080/sheraz6855/haider8966/381064
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS RAJ TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="IND | TAMIL",IN-TM | TS RAJ TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381063
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS POLIMER NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="IND | TAMIL",IN-TM | TS POLIMER NEWS
+http://103.161.34.13:8080/sheraz6855/haider8966/381062
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS JAYA TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="IND | TAMIL",IN-TM | TS JAYA TV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381061
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS KTV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="IND | TAMIL",IN-TM | TS KTV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381060
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS STAR VIJAY FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="IND | TAMIL",IN-TM | TS STAR VIJAY FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381059
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SONIC NICK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png" group-title="IND | TAMIL",IN-TM | TS SONIC NICK
+http://103.161.34.13:8080/sheraz6855/haider8966/381058
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS TRAVEL XP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Travelxp-Tamil.png" group-title="IND | TAMIL",IN-TM | TS TRAVEL XP
+http://103.161.34.13:8080/sheraz6855/haider8966/381057
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="IND | TAMIL",IN-TM | TS SUN TV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381056
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NEWS TAMIL 24x7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Tamil-24x7-1.png" group-title="IND | TAMIL",IN-TM | TS NEWS TAMIL 24x7
+http://103.161.34.13:8080/sheraz6855/haider8966/381055
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS ZEE TAMIL SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil.png" group-title="IND | TAMIL",IN-TM | TS ZEE TAMIL SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381054
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS COLORS TAMIL SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil.png" group-title="IND | TAMIL",IN-TM | TS COLORS TAMIL SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381053
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SONY PIX FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png" group-title="IND | TAMIL",IN-TM | TS SONY PIX FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381052
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS TATA PLAY HOLLYWOOD LOCAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="IND | TAMIL",IN-TM | TS TATA PLAY HOLLYWOOD LOCAL
+http://103.161.34.13:8080/sheraz6855/haider8966/381051
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SONY PIX SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-1.png" group-title="IND | TAMIL",IN-TM | TS SONY PIX SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381050
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS KALAIGNAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="IND | TAMIL",IN-TM | TS KALAIGNAR TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381049
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS D TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="IND | TAMIL",IN-TM | TS D TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/381048
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MEGA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MegaTV.png" group-title="IND | TAMIL",IN-TM | TS MEGA TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381047
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS VASANTH TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vasanth-TV.png" group-title="IND | TAMIL",IN-TM | TS VASANTH TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381046
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS POLIMER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="IND | TAMIL",IN-TM | TS POLIMER TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381045
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS VENDHAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="IND | TAMIL",IN-TM | TS VENDHAR TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381044
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS ZEE THIRAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="IND | TAMIL",IN-TM | TS ZEE THIRAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381043
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MADHA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="IND | TAMIL",IN-TM | TS MADHA TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381042
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NAMBIKKAI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nambikkai-TV.png" group-title="IND | TAMIL",IN-TM | TS NAMBIKKAI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381041
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS PEPPERS TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Peppers.png" group-title="IND | TAMIL",IN-TM | TS PEPPERS TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381040
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS ISAIARUVI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="IND | TAMIL",IN-TM | TS ISAIARUVI
+http://103.161.34.13:8080/sheraz6855/haider8966/381039
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MURASU TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="IND | TAMIL",IN-TM | TS MURASU TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381038
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MEGA MUSIQ" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-Musiq.png" group-title="IND | TAMIL",IN-TM | TS MEGA MUSIQ
+http://103.161.34.13:8080/sheraz6855/haider8966/381037
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS JOTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="IND | TAMIL",IN-TM | TS JOTHI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381036
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS PUTHIYA THALAIMURAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png" group-title="IND | TAMIL",IN-TM | TS PUTHIYA THALAIMURAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381035
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS THANTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Thanthi-TV.png" group-title="IND | TAMIL",IN-TM | TS THANTHI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381034
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NEWS 7 TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-7-Tamil.png" group-title="IND | TAMIL",IN-TM | TS NEWS 7 TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/381033
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NEWS18 TAMIL NADU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Tamil-Nadu-1.png" group-title="IND | TAMIL",IN-TM | TS NEWS18 TAMIL NADU
+http://103.161.34.13:8080/sheraz6855/haider8966/381032
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SEITHIGAL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="IND | TAMIL",IN-TM | TS SEITHIGAL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381031
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SATHIYAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sathiyam-TV.png" group-title="IND | TAMIL",IN-TM | TS SATHIYAM TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381030
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NEWS J" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-J.png" group-title="IND | TAMIL",IN-TM | TS NEWS J
+http://103.161.34.13:8080/sheraz6855/haider8966/381029
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS TAMIL NAAPTOL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol-Tamil.png" group-title="IND | TAMIL",IN-TM | TS TAMIL NAAPTOL
+http://103.161.34.13:8080/sheraz6855/haider8966/381028
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS FOX LIFE FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fox-Life-HD-1.png" group-title="IND | TAMIL",IN-TM | TS FOX LIFE FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381027
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS GOOD TIMES" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goodtimes.png" group-title="IND | TAMIL",IN-TM | TS GOOD TIMES
+http://103.161.34.13:8080/sheraz6855/haider8966/381026
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NATIONAL GEOGRAPHIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="IND | TAMIL",IN-TM | TS NATIONAL GEOGRAPHIC FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381025
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NATIONAL GEOGRAPHIC SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="IND | TAMIL",IN-TM | TS NATIONAL GEOGRAPHIC SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381024
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NAT GEO WILD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="IND | TAMIL",IN-TM | TS NAT GEO WILD FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/381023
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS NAT GEO WILD SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild.png" group-title="IND | TAMIL",IN-TM | TS NAT GEO WILD SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381022
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS ANIMAL PLANET SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet.png" group-title="IND | TAMIL",IN-TM | TS ANIMAL PLANET SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381021
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS DISCOVERY CHANNEL SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel.png" group-title="IND | TAMIL",IN-TM | TS DISCOVERY CHANNEL SD
+http://103.161.34.13:8080/sheraz6855/haider8966/381020
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SUPER HUNGAMA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Super-Hungama.png" group-title="IND | TAMIL",IN-TM | TS SUPER HUNGAMA
+http://103.161.34.13:8080/sheraz6855/haider8966/381019
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS DISNEY JUNIOR" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney-Junior.png" group-title="IND | TAMIL",IN-TM | TS DISNEY JUNIOR
+http://103.161.34.13:8080/sheraz6855/haider8966/381018
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS TATA PLAY TOONS+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons-copy.png" group-title="IND | TAMIL",IN-TM | TS TATA PLAY TOONS+
+http://103.161.34.13:8080/sheraz6855/haider8966/381017
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SUN LIFE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="IND | TAMIL",IN-TM | TS SUN LIFE
+http://103.161.34.13:8080/sheraz6855/haider8966/381016
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS RAJ NEWS 24X7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-247.png" group-title="IND | TAMIL",IN-TM | TS RAJ NEWS 24X7
+http://103.161.34.13:8080/sheraz6855/haider8966/381015
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS SIRIPPOLI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="IND | TAMIL",IN-TM | TS SIRIPPOLI
+http://103.161.34.13:8080/sheraz6855/haider8966/381014
+#EXTINF:-1 tvg-id="" tvg-name="IN | TRAVEL XP 4K HDR TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TravelXP4K.png" group-title="IND | TAMIL",IN | TRAVEL XP 4K HDR TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/381013
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H THANTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Thanthi-TV.png" group-title="IND | TAMIL",IN-TM | D2H THANTHI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381012
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SEITHIGAL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png" group-title="IND | TAMIL",IN-TM | D2H SEITHIGAL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381011
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H PUTHIYA THALAIMURAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png" group-title="IND | TAMIL",IN-TM | D2H PUTHIYA THALAIMURAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381010
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H NEWS 7 TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-7-Tamil.png" group-title="IND | TAMIL",IN-TM | D2H NEWS 7 TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/381009
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | ISAI ARUVI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="IND | TAMIL",IN-TM | ISAI ARUVI
+http://103.161.34.13:8080/sheraz6855/haider8966/381008
+#EXTINF:-1 tvg-id="" tvg-name="IN_TM | TTN 24 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TTN-24.png" group-title="IND | TAMIL",IN_TM | TTN 24 TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381007
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | ATHAVAN TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Athavan-TV.png" group-title="IND | TAMIL",IN-TM | ATHAVAN TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381006
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | PUTHU YUGAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png" group-title="IND | TAMIL",IN-TM | PUTHU YUGAM TV
+http://103.161.34.13:8080/sheraz6855/haider8966/381005
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H VENDHAR NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png" group-title="IND | TAMIL",IN-TM | D2H VENDHAR NEWS
+http://103.161.34.13:8080/sheraz6855/haider8966/381004
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC ISAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Isai.png" group-title="IND | TAMIL",IN-TM | IBC ISAI
+http://103.161.34.13:8080/sheraz6855/haider8966/381003
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Music.png" group-title="IND | TAMIL",IN-TM | IBC MUSIC
+http://103.161.34.13:8080/sheraz6855/haider8966/381002
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TVI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="IND | TAMIL",IN-TM | TVI
+http://103.161.34.13:8080/sheraz6855/haider8966/381001
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC COMEDY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Comedy.png" group-title="IND | TAMIL",IN-TM | IBC COMEDY
+http://103.161.34.13:8080/sheraz6855/haider8966/381000
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC CANADA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC.png" group-title="IND | TAMIL",IN-TM | IBC CANADA
+http://103.161.34.13:8080/sheraz6855/haider8966/380999
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="IND | TAMIL",IN-TM | IBC TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/380998
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H CHUTTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451" group-title="IND | TAMIL",IN-TM | D2H CHUTTI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380997
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | SUN NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-News.png" group-title="IND | TAMIL",IN-TM | SUN NEWS
+http://103.161.34.13:8080/sheraz6855/haider8966/380996
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H ADITHYA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Adithya-TV.png" group-title="IND | TAMIL",IN-TM | D2H ADITHYA TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380995
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H JAYA TV HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-TV-HD.png" group-title="IND | TAMIL",IN-TM | D2H JAYA TV HD
+http://103.161.34.13:8080/sheraz6855/haider8966/380994
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | KBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kbo-white.png" group-title="IND | TAMIL",IN-TM | KBO
+http://103.161.34.13:8080/sheraz6855/haider8966/380993
+#EXTINF:-1 tvg-id="" tvg-name="IN | D2H FOX LIFE FHD TAMIL" tvg-logo="http://b1g.fun/logos2/fox_lifehd.jpg" group-title="IND | TAMIL",IN | D2H FOX LIFE FHD TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/380992
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H COLORS HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="IND | TAMIL",IN-TM | D2H COLORS HD
+http://103.161.34.13:8080/sheraz6855/haider8966/380991
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H KALAIGNAR TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="IND | TAMIL",IN-TM | D2H KALAIGNAR TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380990
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H RAJ  TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png" group-title="IND | TAMIL",IN-TM | D2H RAJ  TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380989
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H RAJ MUSIX" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png" group-title="IND | TAMIL",IN-TM | D2H RAJ MUSIX
+http://103.161.34.13:8080/sheraz6855/haider8966/380988
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-2.png" group-title="IND | TAMIL",IN-TM | D2H RAJ NEWS
+http://103.161.34.13:8080/sheraz6855/haider8966/380987
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SIRIPPOLI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="IND | TAMIL",IN-TM | D2H SIRIPPOLI
+http://103.161.34.13:8080/sheraz6855/haider8966/380986
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SUN NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-News.png" group-title="IND | TAMIL",IN-TM | D2H SUN NEWS
+http://103.161.34.13:8080/sheraz6855/haider8966/380985
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H ZEE THIRAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Thirai.png" group-title="IND | TAMIL",IN-TM | D2H ZEE THIRAI
+http://103.161.34.13:8080/sheraz6855/haider8966/380984
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H MEGA 24" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-24.png" group-title="IND | TAMIL",IN-TM | D2H MEGA 24
+http://103.161.34.13:8080/sheraz6855/haider8966/380983
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H MEGA MUSIQ" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-Musiq.png" group-title="IND | TAMIL",IN-TM | D2H MEGA MUSIQ
+http://103.161.34.13:8080/sheraz6855/haider8966/380982
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H JAYA MOVIE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="IND | TAMIL",IN-TM | D2H JAYA MOVIE
+http://103.161.34.13:8080/sheraz6855/haider8966/380981
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H JAYA PLUS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Plus.png" group-title="IND | TAMIL",IN-TM | D2H JAYA PLUS
+http://103.161.34.13:8080/sheraz6855/haider8966/380980
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H JOTHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jothi-TV.png" group-title="IND | TAMIL",IN-TM | D2H JOTHI TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380979
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H POLIMER TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png" group-title="IND | TAMIL",IN-TM | D2H POLIMER TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380978
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H D TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="IND | TAMIL",IN-TM | D2H D TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/380977
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SONY PIX FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png" group-title="IND | TAMIL",IN-TM | D2H SONY PIX FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380976
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H MURASU TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="IND | TAMIL",IN-TM | D2H MURASU TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380975
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | CHITHIRAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Chithram.png" group-title="IND | TAMIL",IN-TM | CHITHIRAM TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380974
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | TS MALAI MURASU SEITHIGAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/MalaiMurasu-Seithigal.png" group-title="IND | TAMIL",IN-TM | TS MALAI MURASU SEITHIGAL
+http://103.161.34.13:8080/sheraz6855/haider8966/380973
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H 7S MUSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="IND | TAMIL",IN-TM | D2H 7S MUSIC
+http://103.161.34.13:8080/sheraz6855/haider8966/380972
+#EXTINF:-1 tvg-id="" tvg-name="IN | D2H STAR SPORTS 1 FHD TAMIL" tvg-logo="http://b1g.fun/logos2/star_sports1tamil.jpg" group-title="IND | TAMIL",IN | D2H STAR SPORTS 1 FHD TAMIL
+http://103.161.34.13:8080/sheraz6855/haider8966/380971
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H ZEE TAMIL FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="IND | TAMIL",IN-TM | D2H ZEE TAMIL FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380970
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H VIJAY SUPER" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vijay-Super.png" group-title="IND | TAMIL",IN-TM | D2H VIJAY SUPER
+http://103.161.34.13:8080/sheraz6855/haider8966/380969
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SUN LIFE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png" group-title="IND | TAMIL",IN-TM | D2H SUN LIFE
+http://103.161.34.13:8080/sheraz6855/haider8966/380968
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="IND | TAMIL",IN-TM | D2H SUN TV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380967
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SONY BBC EARTH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="IND | TAMIL",IN-TM | D2H SONY BBC EARTH FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380966
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SONIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png" group-title="IND | TAMIL",IN-TM | D2H SONIC
+http://103.161.34.13:8080/sheraz6855/haider8966/380965
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H POGO" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png" group-title="IND | TAMIL",IN-TM | D2H POGO
+http://103.161.34.13:8080/sheraz6855/haider8966/380964
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H NICK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick-2.png" group-title="IND | TAMIL",IN-TM | D2H NICK
+http://103.161.34.13:8080/sheraz6855/haider8966/380963
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H NAT GEO WILD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="IND | TAMIL",IN-TM | D2H NAT GEO WILD FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380962
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H KTV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="IND | TAMIL",IN-TM | D2H KTV FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380961
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H HISTORY TV18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="IND | TAMIL",IN-TM | D2H HISTORY TV18 FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380960
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H FOX LIFE FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fox-Life-HD-1.png" group-title="IND | TAMIL",IN-TM | D2H FOX LIFE FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380959
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H DISCOVERY KIDS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png" group-title="IND | TAMIL",IN-TM | D2H DISCOVERY KIDS
+http://103.161.34.13:8080/sheraz6855/haider8966/380958
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H DISCOVERY FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel.png" group-title="IND | TAMIL",IN-TM | D2H DISCOVERY FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380957
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H CARTOON NETWORK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="IND | TAMIL",IN-TM | D2H CARTOON NETWORK
+http://103.161.34.13:8080/sheraz6855/haider8966/380956
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H ANIMAL PLANET FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet-HD-World.png" group-title="IND | TAMIL",IN-TM | D2H ANIMAL PLANET FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380955
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H &FLIX FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Flix.png" group-title="IND | TAMIL",IN-TM | D2H &FLIX FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380954
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SUN MUSIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Music.png" group-title="IND | TAMIL",IN-TM | D2H SUN MUSIC FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380953
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H STAR VIJAY FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="IND | TAMIL",IN-TM | D2H STAR VIJAY FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380952
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC BHAKTHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Bhakti.png" group-title="IND | TAMIL",IN-TM | IBC BHAKTHI
+http://103.161.34.13:8080/sheraz6855/haider8966/380951
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | IBC SILUVAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/GTA-Tamil-TV.png" group-title="IND | TAMIL",IN-TM | IBC SILUVAI
+http://103.161.34.13:8080/sheraz6855/haider8966/380950
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | MOON TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="IND | TAMIL",IN-TM | MOON TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380949
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H NAT GEO FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="IND | TAMIL",IN-TM | D2H NAT GEO FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380948
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H DISNEY CHANNEL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney.png" group-title="IND | TAMIL",IN-TM | D2H DISNEY CHANNEL
+http://103.161.34.13:8080/sheraz6855/haider8966/380947
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | UDHAYAM TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Udhavam-TV.png" group-title="IND | TAMIL",IN-TM | UDHAYAM TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380946
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | GTA TAMIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/GTA-Tamil-TV.png" group-title="IND | TAMIL",IN-TM | GTA TAMIL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380945
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | KALAI ISAI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalai-Isai.png" group-title="IND | TAMIL",IN-TM | KALAI ISAI
+http://103.161.34.13:8080/sheraz6855/haider8966/380944
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | VAANAVIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="IND | TAMIL",IN-TM | VAANAVIL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380943
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | 3 TAMIL TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="IND | TAMIL",IN-TM | 3 TAMIL TV
+http://103.161.34.13:8080/sheraz6855/haider8966/380942
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H SONY YAY" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png" group-title="IND | TAMIL",IN-TM | D2H SONY YAY
+http://103.161.34.13:8080/sheraz6855/haider8966/380941
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | BIGG BOSS 24X7 HD" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/02/1613126289_download-2.jpg" group-title="IND | TAMIL",IN-TM | BIGG BOSS 24X7 HD
+http://103.161.34.13:8080/sheraz6855/haider8966/380940
+#EXTINF:-1 tvg-id="" tvg-name="IN-TG | BIGG BOSS 24X7 FHD" tvg-logo="https://imgeng.jagran.com/images/2023/jul/BiggBossTelugu71689071972000.jpg" group-title="IND | TAMIL",IN-TG | BIGG BOSS 24X7 FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380939
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | BIGG BOSS 24X7 FHD" tvg-logo="https://images.news18.com/ibnlive/uploads/2021/02/1613126289_download-2.jpg" group-title="IND | TAMIL",IN-TM | BIGG BOSS 24X7 FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/380938
+#EXTINF:-1 tvg-id="" tvg-name="IN-TM | D2H TRAVEL XP" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Travelxp-Tamil.png" group-title="IND | TAMIL",IN-TM | D2H TRAVEL XP
 
-#EXTINF:-1 tvg-id="Channel2" tvg-name="KTV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png" group-title="Tamil",KTV HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100125
 
-#EXTINF:-1 tvg-id="Channel3" tvg-name="STAR VIJAY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tamil",STAR VIJAY
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100153
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Tamil Movies 01" tvg-logo="" group-title="24/7 TAMIL,TELUGU,MALAYALAM",24/7: Tamil Movies 01
+http://103.161.34.13:8080/sheraz6855/haider8966/301492
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Tamil Movies 02" tvg-logo="" group-title="24/7 TAMIL,TELUGU,MALAYALAM",24/7: Tamil Movies 02
+http://103.161.34.13:8080/sheraz6855/haider8966/301493
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Tamil Movies 03" tvg-logo="" group-title="24/7 TAMIL,TELUGU,MALAYALAM",24/7: Tamil Movies 03
+http://103.161.34.13:8080/sheraz6855/haider8966/301494
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Telugu Movies 01" tvg-logo="" group-title="24/7 TAMIL,TELUGU,MALAYALAM",24/7: Telugu Movies 01
+http://103.161.34.13:8080/sheraz6855/haider8966/301496
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Tamil Movies 04" tvg-logo="" group-title="24/7 TAMIL,TELUGU,MALAYALAM",24/7: Tamil Movies 04
+http://103.161.34.13:8080/sheraz6855/haider8966/301495
 
-#EXTINF:-1 tvg-id="Channel4" tvg-name="STAR SUPER" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_Super.png" group-title="Tamil",STAR SUPER
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100167
 
-#EXTINF:-1 tvg-id="Channel5" tvg-name="ZEE TAMIL" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="Tamil",ZEE TAMIL
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100169
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="ADHTIYA TV" tvg-logo="https://sund-images.sunnxt.com/194407/200x200_AdithyaTV_194407_5d218a3c-c2ce-47b8-994b-4737e26edfef.png" group-title="Tamil",ADHTIYA TV
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100100
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="ZEE TAMIL HD" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Tamil",ZEE TAMIL HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100169
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="ZEE THIRAI" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png" group-title="Tamil",ZEE THIRAI
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100171
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SUN LIFE" tvg-logo="https://sund-images.sunnxt.com/194391/200x200_SunLife_194391_d464515e-939a-4b03-a0d9-29f67b67419b.png" group-title="Tamil",SUN LIFE
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100154
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SUN MUSIC HD" tvg-logo="https://sund-images.sunnxt.com/194410/200x200_SunMusic_194410_86c7c8b4-b24b-4a3f-a599-6c3df8bed22b.png" group-title="Tamil",SUN MUSIC HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100155
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="COLORS TAMIL HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Tamil",COLORS TAMIL HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100109
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png" group-title="Tamil",DISCOVERY WORLD HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100113
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="HISTORY TV18 HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tamil",HISTORY TV18 HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100116
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="J MOVIES" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="Tamil",J MOVIES
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100121
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="JAYA MAX" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title="Tamil",JAYA MAX
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100122
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="JAYA PLUS" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png" group-title="Tamil",JAYA PLUS
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100123
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="JAYA TV HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Tamil",JAYA TV HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100124
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="MK TV" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Tamil",MK TV
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100132
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="NAT GEO WILD HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Tamil",NAT GEO WILD HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100135
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Tamil",NATIONAL GEOGRAPHIC HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100136
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SONY BBC EARTH HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Tamil",SONY BBC EARTH HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100151
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SONY YAY" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-yay.gif" group-title="Tamil",SONY YAY
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/100152
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="TRAVEL XP HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png" group-title="Tamil",TRAVEL XP HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93675
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Tamil",DISCOVERY SCIENCE
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93679
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="DISCOVERY KIDS" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Tamil",DISCOVERY KIDS
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93680
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="DISCOVERY TURBO" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" group-title="Tamil",DISCOVERY TURBO
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93681
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SONY PIX HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="English",SONY PIX HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/96182
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SONY MOVIE" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sony-entertainment-television-hd.gif" group-title="English",SONY MOVIE
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/158151
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="MOVIES NOW HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="English",MOVIES NOW HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/96282
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="AND PRIVE HD" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/%26prive-hd.gif" group-title="English",AND PRIVE HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93644
-
-#EXTINF:-1,ENGLISH: HBO INDIA HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/93655
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="COLOURS INFINITY" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",COLOURS INFINITY
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/158091
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="TATA HITS" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",TATA HITS
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/127723
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="HBO" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",HBO
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/127724
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="HOLLYWOOD" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",HOLLYWOOD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/127693
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="TCM" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",TCM
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/127694
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",PARAMOUNT CHANNEL
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/127696
-
-#EXTINF:-1 tvg-id="Channel5" tvg-name="SOMOS HD" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="English",SOMOS HD
-http://sansat.net:88/QRZSJZTDYTNB4JH/XTTGURPKAEL7YPS/164750
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star World HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66211
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66213
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="INDIAN | ENGLISH MOVIES",IN | Sony Pix FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66224
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN | &Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="INDIAN | ENGLISH MOVIES",IN | &Prive FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66228
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | HBO HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66229
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Flix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN | ENGLISH MOVIES",IN | & Flix FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66236
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Explor FHD" tvg-logo="" group-title="INDIAN | ENGLISH MOVIES",IN: & Explor FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66241
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="INDIAN | ENGLISH MOVIES",IN: MNX FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66266
+#EXTINF:-1 tvg-id="" tvg-name="IN | Movies Now FHD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Movies Now FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66271
+#EXTINF:-1 tvg-id="" tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="INDIAN | ENTERTAINMENT",IN | BBO HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66277
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="INDIAN | ENGLISH MOVIES",IN | Fox Life FHD
+http://103.161.34.13:8080/sheraz6855/haider8966/66278
+#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Romedy Now
+http://103.161.34.13:8080/sheraz6855/haider8966/66282
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="IN | Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Zee Cafe HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66287
+#EXTINF:-1 tvg-id="" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="INDIAN | D2H ACTIVE",IN | AXN HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66313
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies Select HD
+http://103.161.34.13:8080/sheraz6855/haider8966/66315
+#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Express Entertainment
+http://103.161.34.13:8080/sheraz6855/haider8966/26010
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
+http://103.161.34.13:8080/sheraz6855/haider8966/221339
 
