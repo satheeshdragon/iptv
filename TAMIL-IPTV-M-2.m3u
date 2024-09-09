@@ -339,6 +339,9 @@ http://103.161.34.13:8080/sheraz6855/haider8966/26010
 http://103.161.34.13:8080/sheraz6855/haider8966/221339
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://docdog.top/logo/countries/india/vijay-tv-in.png" group-title="ASIA | INDIA VIP",IN: STAR VIJAY
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://docdog.top/logo/countries/india/vijay-tv-in.png" group-title="INDIA VIP",IN: STAR VIJAY
 http://vipatdom.top:8080/live/VIP0180171685263680/1fe965455ec3/7344.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN TV" tvg-logo="https://docdog.top/logo/countries/india/suntv.png" group-title="INDIA VIP",IN: SUN TV
+http://vipatdom.top:8080/live/VIP0180171685263680/1fe965455ec3/7347.m3u8
 
